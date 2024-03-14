@@ -1,0 +1,12 @@
+{
+  "name": "airthmetic-operators",
+  "version": "1.0.0",
+  "description": "In this typescript file performed Airthmetic operators",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Tariq Mahboob (00045915)",
+  "license": "ISC"
+}
